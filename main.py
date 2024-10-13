@@ -1,5 +1,5 @@
 # This is a sample Python script.
-import decouple
+# import decouple
 
 TOKEN = ''
 
@@ -30,7 +30,8 @@ class A1:
 
 a = A1('a')
 print(a)
-import colorama
-print(colorama.Back.GREEN)
-print(colorama.Back.GREEN)
-print(colorama.Back.GREEN)
+# import colorama
+# print(colorama.Back.GREEN)
+# print(colorama.Back.GREEN)
+# print(colorama.Back.GREEN)
+print(a.a)
